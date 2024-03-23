@@ -18,10 +18,10 @@ i am still student and learning ,,,to improve myself.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=twki69&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=twki69)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username)  
 
-![GitHub metrics](https://metrics.lecoq.io/twki69)  
+![GitHub metrics](https://metrics.lecoq.io/)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=twki69)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=)  
 
-![Profile views](https://gpvc.arturio.dev/twki69)  
+![Profile views](https://gpvc.arturio.dev  
