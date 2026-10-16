@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on a project 
 - 🌱 I’m currently learning Node.js, Tailwind CSS, React, JS, Python.
 - 💬 Ask me about Web development 
-- 📫 How to reach me: twkimahamod69@gmail.com 
+- 📫 How to reach me: sayedmahamodtwki1@gmail.com 
 - 😄 Pronouns: T W K I 
 - ⚡ Fun fact: Bananas are berries, but strawberries aren’t! 🍌🍓
 
